@@ -14,6 +14,7 @@ En este repositorio encontrarás la resolución de los Trabajos Prácticos mas d
 - TP 6 - Concepto de Herencia y Polimorfismo
 - TP 8 - Clases Genéricas
 - TP 9 - Concepto de Interfaces gráficas
+- GUI-Project - Proyecto de interfaz gráfica segundo cuatrimestre 2025
 
 ## 🌳 Árbol de Directorios
 
