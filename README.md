@@ -1,7 +1,7 @@
 
 # IPOO - Introducción a la Programación Orientada a Objetos
 
-En este repositorio encontrarás la resolución de los Trabajos Prácticos mas destacados que utilicé durante mi cursado de la matería, algunos de los ejercicos cuentan con testers para corroboar el correcto funcionamiento de cada una de las clases implementadas.
+En este repositorio encontrarás la resolución de los Trabajos Prácticos mas destacados que utilicé durante mi cursado de la matería, algunos de los ejercicos cuentan con testers para corroborar el correcto funcionamiento de cada una de las clases implementadas.
 
 
 
